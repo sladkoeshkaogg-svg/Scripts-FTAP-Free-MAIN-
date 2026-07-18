@@ -75,5 +75,7 @@ loadstring(game:HttpGet('https://raw.githubusercontent.com/aslan90101/gracity-sp
 --Ametist Premium
 loadstring(game:HttpGet("https://gist.githubusercontent.com/qumonix025/5f18552370afdc8e49f70c18930151d4/raw/f74a3ad4748448b82e2b50aed0a0a7c243191adf/gistfile1.txt"))()
 
+--Legacy Script
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Artss1/Flades_Hub/main/We%20Are%20Arts.lua"))()
 
 --THANKS FOR WALSHING
