@@ -49,7 +49,7 @@ loadstring(game:HttpGet"https://rawscripts.net/raw/Fling-Things-and-People-*-v2-
 --RuHub Best Kick All No Blob Keyless
 loadstring(game:HttpGet("https://raw.githubusercontent.com/sladkoeshkaogg-svg/RuScript/refs/heads/main/Ruhub.lua"))()
 
---APPLE hub by:papa Arhipova
+--APPLE hub by:papa Arhipova TG:
 loadstring(game:HttpGet("https://pastebin.com/raw/KbkAWWFw"))()
 
 --Blizt
