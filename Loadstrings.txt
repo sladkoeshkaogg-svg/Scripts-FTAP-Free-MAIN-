@@ -1,1 +1,77 @@
+--???
+loadstring(game:HttpGet("https://pastefy.app/UTl1i5yQ/raw"))()
 
+--Poop hub 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ilovepoop0653/PoopHUB/refs/heads/main/PoopHUB%20by%20Poop"))()
+
+--Dex Scrinpt(Helper for creating exploit scripts)
+loadstring(game:HttpGet('https://raw.githubusercontent.com/MassiveHubs/loadstring/refs/heads/main/DexXenoAndRezware'))()
+
+--???
+loadstring(game:HttpGet("https://pastebin.com/raw/M1QMizBu"))()
+
+--Holon hub
+loadstring(game:HttpGet("https://raw.githubusercontent.com/hololove1021/HolonHUB/refs/heads/main/language/hub-en.lua"))()
+
+--RUHUB
+loadstring(game:HttpGet("https://raw.githubusercontent.com/cooldawg123/RuHubFTAPrelease/refs/heads/main/official.lua",true))()
+
+--???
+loadstring(game:HttpGet("https://raw.githubusercontent.com/scripture2025/FTAP/refs/heads/main/ScriptLoader"))()
+
+--Foxname Hub
+loadstring(game:HttpGet("https://raw.githubusercontent.com/caomod2077/Script/refs/heads/main/FoxnameHub.lua"))()
+
+--Elysium Hub
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Oxwoey/ElysiumHub/main/oxwoey.lua", true))("t.me/arceusxscripts")
+
+--Ninja hub
+loadstring(game:HttpGet("https://raw.githubusercontent.com/biel99lol/My-scripts/refs/heads/main/Ninja%20hub%20(FTAP)%20update",true))()
+
+--???
+loadstring(game:HttpGet('https://raw.githubusercontent.com/ephide/Fling-Things-and-People/main/no'))()
+
+--Shrimps Hub
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ShrimpsHub/ShrimpsHub/main/ShrimpsHub"))()
+
+--AIRHUB
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Exunys/AirHub/main/AirHub.lua"))()
+
+--SRV9
+loadstring(game:HttpGet("https://rawscripts.net/raw/Fling-Things-and-People-SRV9-Fling-Things-and-people-55961"))() 
+
+--FTAP Script
+loadstring(game:HttpGet"https://rawscripts.net/raw/Fling-Things-and-People-FTAP-Hub-79081")()
+
+--Bloody V2 Free Key: BestScriptYK
+loadstring(game:HttpGet"https://rawscripts.net/raw/Fling-Things-and-People-*-v2-247695")()
+
+--RuHub Best Kick All No Blob Keyless
+loadstring(game:HttpGet("https://raw.githubusercontent.com/sladkoeshkaogg-svg/RuScript/refs/heads/main/Ruhub.lua"))()
+
+--APPLE hub by:papa Arhipova
+loadstring(game:HttpGet("https://pastebin.com/raw/KbkAWWFw"))()
+
+--Blizt
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BlizTBr/scripts/main/FTAP.lua"))()
+
+--Fenix Free Keyless
+loadstring(game:HttpGet("https://raw.githubusercontent.com/kiberblogr-coder/phoenix-hub/main/hub.lua"))()
+
+--Free NeoLose
+getgenv().SCRIPT_KEY = "e63a0e8c-7996-4de0-a6f6-d558b402090c"
+
+loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/ea881dea01ab8fead5624cc457b9253d5d244f3e3a4de0790007db133e866c1a/download"))()
+
+--XOCO Script FREE
+loadstring(game:HttpGet("https://raw.githubusercontent.com/sladkoeshkaogg-svg/XOCOScript/refs/heads/main/XOCO.lua"))()
+
+--Working Mobile and PC Tokra Script Free No KEYLESS
+loadstring(game:HttpGet("https://raw.githubusercontent.com/sladkoeshkaogg-svg/TokraUnlocked/refs/heads/main/Tokra.lua"))()
+
+--Endoris FTAP
+loadstring(game:HttpGet('https://raw.githubusercontent.com/aslan90101/gracity-speed-jump/refs/heads/main/FTAP.lua'))()
+
+
+
+--THANKS FOR WALSHING
